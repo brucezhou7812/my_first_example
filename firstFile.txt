@@ -1,1 +1,2 @@
 Hello world！
+I have inserted a log.
